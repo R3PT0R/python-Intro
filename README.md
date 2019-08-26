@@ -43,5 +43,31 @@ fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
 ```
+## Data Types:
+There are many diffrent data types in Python. But for now im going to teach you the 2 basics, Strings and Integers. Strings are words but they have no value. If you put the number "1" in a string, it wont have any value the computer will take it as a word. integers are something diffrent. If you write ```print(1436+4-2)``` it will give you the answer. if you try it like ```print('1436+4-2')``` it will show it as an error. You can learn other data types like Floating-Point Numbers, Complex Numbers and Raw Strings. These are other Data Types but are a bit complicated. You can learn them here: https://realpython.com/python-data-types/
 
+## Input:
+Input is a function you use to take and collect data from someone or something. Its very simple. First make a variable, then
+put something the user answers to and the terminal will print it. The code might give you a better understanding.
+```python
+Var1 = input('How is your day?')
+```
+## Dictionary
+Dictionary, also known as databases are something used to store data and also print it. Online stores like Amazaon and Ebay uses very complicated dictionaries. But i am not a rocket coder(not sure is thats a thing), I am a 10-Year-Old boy who is writing a Python book. I will give an example of it below ↓
+``` python
+print('welcome to the choclate shop')
+
+myDict = {'name': 'Hershey', 'maker': 'Hershey Co.', 'Price': '$1.50'}
+
+print("Dictionary Items : ", myDict)
+
+print("/nDictionary Key - name : ", myDict['name'])
+print("Dictionary Key - maker : ", myDict['maker'])
+print("Dictionary Key - Price : ", myDict['Price'])
+```
+## Confronting and fixing errors:
+Errors are okay to make. Errors in coding can be fustrating as you have to scan through every line of code and most of the time its rather one thing that makes the whole programe go broken. These are the normal and most common errors:
+1. Syntax Errors:
+These errors happen when wrong code is put into the code. I face these errors when I copy random code from random websites. You can trust StackOverFlow and GitHub because they are well mantained websites. However there are many other websites that might not be that famous and have correct answers so its okay to use code from other websites too. How to fix Syntax errors: Think what you are trting to do then go to a trust worthy websites and write it down.
+1.
 
