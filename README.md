@@ -2,16 +2,15 @@
 ## Version 0.1
 
 ### Basic
-1. Why You Should Learn Python
-1. Variables
-1. Printing Variables and other things
-1. If/Else statments
-1. For Loops
-1. Data Types
-1. Input
-1. Dictionary
-1. Confronting and fixing errors
-1. Test: Making a simple program
+ Why You Should Learn Python
+ Variables
+ Printing Variables and other things
+ If/Else statments
+ For Loops
+ Data Types
+ Input
+ Dictionary
+ Test: Making a simple program
 
 ## Why You Should Learn Python:
 Python is an interpreted,tottaly-not complicated, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.Python is much less complex then most proggraming languages.Python is used in robots and prototypes too! wow i never typed to fast in my life! 
@@ -65,9 +64,23 @@ print("/nDictionary Key - name : ", myDict['name'])
 print("Dictionary Key - maker : ", myDict['maker'])
 print("Dictionary Key - Price : ", myDict['Price'])
 ```
-## Confronting and fixing errors:
-Errors are okay to make. Errors in coding can be fustrating as you have to scan through every line of code and most of the time its rather one thing that makes the whole programe go broken. These are the normal and most common errors:
-1. Syntax Errors:
-These errors happen when wrong code is put into the code. I face these errors when I copy random code from random websites. You can trust StackOverFlow and GitHub because they are well mantained websites. However there are many other websites that might not be that famous and have correct answers so its okay to use code from other websites too. How to fix Syntax errors: Think what you are trting to do then go to a trust worthy websites and write it down.
-1.
+## Confronting and fixing errors
+Errors are very common but it is important to know how to fix them. To find an error in your code just run your code in the terminal and it will point it out if there is any.Now i will show you the most common errors and how to fix them.
+1.Syntax error
+To fix this, The terminal will point out wich line the problem is in. Go to the line and fix whatever problem there is if you cannot find the problem, search the problem up and see if there is any option on the web.
+1.Typos
+To fix this just correct your spelling
+1.Indentation Error
+Change Python (.py) files to use 4-space indents and no hard tab characters. Also trim excess spaces and tabs from ends of lines, and remove empty lines at the end of files. Also ensure the last line ends with a newline.
+
+## Review: Make a Simple Program
+Now you have learnt the basics! Lets make a simple program. After this you can go on to the Advanced levels.
+Requirments:
+1. The program must work
+1. Must have a Variable, a If/Else Statment and a print function
+1. Give a line of code of your choice
+1. Have fun 🙂
+
+### Written by R3PT0R. Copyright © 2019 R3PT0R
+
 
