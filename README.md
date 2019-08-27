@@ -2,15 +2,15 @@
 ## Version 0.1
 
 ### Basic
- Why You Should Learn Python
- Variables
- Printing Variables and other things
- If/Else statments
- For Loops
- Data Types
- Input
- Dictionary
- Test: Making a simple program
+1. Why You Should Learn Python
+1. Variables
+1. Printing Variables and other things
+1. If/Else statments
+1. For Loops
+1. Data Types
+1. Input
+1. Dictionary
+1. Test: Making a simple program
 
 ## Why You Should Learn Python:
 Python is an interpreted,tottaly-not complicated, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.Python is much less complex then most proggraming languages.Python is used in robots and prototypes too! wow i never typed to fast in my life! 
