@@ -18,8 +18,8 @@ Python is an interpreted,tottaly-not complicated, general-purpose programming la
 ## Variables:
 Variables are something used to store data in. It is very easy to make a variable and is probably one of of the most easy things in Python.There is a few example with diffrent data types below below.
 ```python
-example = Example #str
-example = 10 #int
+jar = "sugar" #str
+wallet = 10 #int
 ```
 ## Printing Variables and other things:
 Printing variables and other things is very easy. To print a variable, just go to your terminal and write the variables name and it will print the value. Printing other things is also very easy but requires diffrent code. The neccesery code is written below.
