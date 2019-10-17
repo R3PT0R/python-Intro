@@ -92,7 +92,6 @@ To fix this just correct your spelling
 Change Python (.py) files to use 4-space indents and no hard tab characters. Also trim excess spaces and tabs from ends of lines, and remove empty lines at the end of files. Also ensure the last line ends with a newline.
 
 #### Did You Know!: Errors are no fun. But, if there are no errors there would be no right answers either!
-\
 
 ## Review: Make a Simple Program
 Now you have learnt the basics! Lets make a simple program. After this you can go on to the Advanced levels.
