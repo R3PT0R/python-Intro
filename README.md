@@ -14,7 +14,7 @@
 
 ## Why You Should Learn Python:
 Python is an interpreted,tottaly-not complicated, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.Python is much less complex then most proggraming languages.Python is used in robots and prototypes too! wow i never typed to fast in my life!
-#### Did You Know!: Python can automate the Boring Stuff. No need to change something againn and again!
+#### Did You Know!: Python can automate the Boring Stuff. No need to change something again and again!
 
 
 
@@ -91,6 +91,9 @@ To fix this just correct your spelling
 1.Indentation Error
 Change Python (.py) files to use 4-space indents and no hard tab characters. Also trim excess spaces and tabs from ends of lines, and remove empty lines at the end of files. Also ensure the last line ends with a newline.
 
+#### Did You Know!: Errors are no fun. But, if there are no errors there would be no right answers either!
+\
+
 ## Review: Make a Simple Program
 Now you have learnt the basics! Lets make a simple program. After this you can go on to the Advanced levels.
 Requirments:
@@ -99,7 +102,6 @@ Requirments:
 1. Give a line of code of your choice
 1. Have fun 🙂
 
-#### Did You Know!: Errors are no fun. But, if there are no errors there would be no right answers either!
 
 #### Written by R3PT0R. Copyright © 2019 R3PT0R
 
