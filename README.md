@@ -45,7 +45,7 @@ else:
 #### Did You Know!: If/Else statments can be used for responding to questions.
 
 ## For Loops:
-If you don't like mashing buttons or spending too much time doing something again and again I get that, im lazy most of the time too 😆.Ok now let me teach you how to loop a program.Trust me, you are going to be finishing work faster then The Flash.The loop is simple, it does work for you. First, write what you want to be prinnted multiple times in a variable.
+If you don't like mashing buttons or spending too much time doing something again and again I get that, im lazy most of the time too 😆.Ok now let me show you how to loop a program.Trust me, you are going to be finishing work faster then The Flash.The loop is simple, it does work for you. First, write what you want to be prinnted multiple times in a variable.
 once you are done typing, write for x in {variable name} and in a new line write print(x). If you dont understand you can look below ↓
 ```python
 fruits = ["apple", "banana", "cherry"]
@@ -84,13 +84,14 @@ print("Dictionary Key - Price : ", myDict['Price'])
 
 ## Confronting and fixing errors
 Errors are very common but it is important to know how to fix them. To find an error in your code just run your code in the terminal and it will point it out if there is any.Now i will show you the most common errors and how to fix them.
+1.Spotting Errors:
+Most errors are spotted in the Terminal when you run it, but an error will have a red string underneath it.
 1.Syntax error
 To fix this, The terminal will point out wich line the problem is in. Go to the line and fix whatever problem there is if you cannot find the problem, search the problem up and see if there is any option on the web.
 1.Typos
 To fix this just correct your spelling
 1.Indentation Error
 Change Python (.py) files to use 4-space indents and no hard tab characters. Also trim excess spaces and tabs from ends of lines, and remove empty lines at the end of files. Also ensure the last line ends with a newline.
-
 #### Did You Know!: Errors are no fun. But, if there are no errors there would be no right answers either!
 
 ## Review: Make a Simple Program
