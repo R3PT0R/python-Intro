@@ -2,6 +2,7 @@
 
 
 ### Basic
+1. How to install Python
 1. Why You Should Learn Python
 1. Variables
 1. Printing Variables and other things
@@ -11,6 +12,13 @@
 1. Input
 1. Dictionary
 1. Test: Making a simple program
+
+## How to install python
+### Windows
+Download Python3 Installer. Go to www.Python.org and click on the download button.
+![alt text](https://github.com/R3PT0R/python-Intro/blob/master/FotoJet%20(20).png)
+
+
 
 ## Why You Should Learn Python:
 Python is an interpreted,tottaly-not complicated, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.Python is much less complex then most proggraming languages.Python is used in robots and prototypes too! wow i never typed to fast in my life!
@@ -24,6 +32,8 @@ Variables are something used to store data in. It is very easy to make a variabl
 jar = "sugar" #str
 wallet = 10 #int
 ```
+![alt text](https://github.com/R3PT0R/python-Intro/blob/master/FotoJet%20(4).jpg)
+
 #### Did You Know!: Variables are like a special jar. You can keep data in it, use it for later or ask it what the data is! 
 
 ## Printing Variables and other things:
