@@ -14,11 +14,8 @@
 1. Test: Making a simple program
 
 ## How to install python
-### Windows
 Download Python3 Installer. Go to www.Python.org and click on the download button.
 ![alt text](https://github.com/R3PT0R/python-Intro/blob/master/FotoJet%20(20).png)
-
-
 
 ## Why You Should Learn Python:
 Python is an interpreted,tottaly-not complicated, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.Python is much less complex then most proggraming languages.Python is used in robots and prototypes too! wow i never typed to fast in my life!
